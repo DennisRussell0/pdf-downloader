@@ -16,7 +16,11 @@ This project provides a Python script to download PDFs from a list of URLs in an
 ### Installing
 
 * Download or clone the repository containing the script.
-
+* Install dependencies:
+    ```
+    cd scripts
+    pip install -r requirements.txt
+    ```
 ### Executing program
 
 * Navigate to the scripts folder where the download_files.py script is located.
@@ -51,8 +55,3 @@ You can adjust the number of download attempts and tweak other parameters direct
 
 Dennis Russell
 [@DennisRussell0](https://github.com/DennisRussell0)
-
-## Version History
-
-* 0.1
-    * Initial Release
