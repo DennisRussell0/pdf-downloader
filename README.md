@@ -18,7 +18,6 @@ This project provides a Python script to download PDFs from a list of URLs in an
 * Download or clone the repository containing the script.
 * Install dependencies:
     ```
-    cd scripts
     pip install -r requirements.txt
     ```
 ### Executing program
